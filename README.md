@@ -70,7 +70,7 @@ To change the default name, the greetings and if you want to have an image backg
 
 ```js
  // General
-  name: 'John',
+  name: 'Shadyviper',
   imageBackground: false,
   openInNewTab: true,
 
@@ -124,9 +124,9 @@ cards: [
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'Youtube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube.com',
     },
   ],
 ```
